@@ -19,7 +19,7 @@
 
 # Content
 
-1. Trabajo Exploración Unity 2D [2]
+1. [Trabajo Exploración Unity 2D][2]
 
 
 ## Contributors

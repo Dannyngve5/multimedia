@@ -19,7 +19,7 @@
 
 # Content
 
-1. Trabajo Exploración Unity 2D
+1. Trabajo Exploración Unity 2D [2]
 
 
 ## Contributors
@@ -27,3 +27,4 @@
 - [Daniel Eduardo Parra Gómez - Código 20181020110][1]
 
 [1]:https://github.com/Dannyngve5
+[2]:https://github.com/Dannyngve5/multimedia/tree/main/practica2d_unity

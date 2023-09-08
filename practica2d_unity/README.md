@@ -13,4 +13,4 @@
 [![Daniel Eduardo Parra Gómez](https://img.shields.io/badge/Dannyngve5-github-br?style=flat-square)](https://github.com/Dannyngve5)
 
 
-**Sub repositorio en donde se realiza la exploración de la herramienta Unity para la creación de videojuegos 2D.
+Sub repositorio en donde se realiza la exploración de la herramienta Unity para la creación de videojuegos 2D.

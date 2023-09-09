@@ -14,3 +14,4 @@
 
 
 Sub repositorio en donde se realiza la exploración de la herramienta Unity para la creación de videojuegos 2D.
+Consta de un pequeño juego en donde se controla una rana, el objetivo es capturar todas las frutas y el trofeo final.
